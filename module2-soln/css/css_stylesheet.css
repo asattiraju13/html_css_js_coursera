@@ -46,7 +46,9 @@ h1 {
 	padding: 15px;
 }
 
-/* Simple Responsive Framework. */
+/* Simple Responsive Framework templated from 
+https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/examples/Lecture24/responsive-after.html. */
+
 section {
   width: 100%;
 }
